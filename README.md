@@ -28,7 +28,7 @@ Clone the project by adding the following command in the terminal.
 Make sure your have git installed and added to path.
 
 ```bash
-  git clone https://github.com/lakshman415/my-form-validation.git
+  git clone https://github.com/lakshman415/form-validation-regex.git
 ```
 
 Open the project directory in a new window and run the html file
